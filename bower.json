@@ -1,0 +1,9 @@
+{
+  "name": "front",
+  "version": "0.0.0",
+  "dependencies": {
+    "bootstrap3-wysihtml5-bower": "^0.3.3",
+    "bootstrap": "^3.3.6"
+  },
+  "devDependencies": {}
+}
