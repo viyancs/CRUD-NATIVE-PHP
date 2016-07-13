@@ -9,7 +9,7 @@ class Services {
             throw new Exception("Connection to the database server failed!");
         }
         if (!mysql_select_db("crud")) {
-            throw new Exception("No detik database found on database server.");
+            throw new Exception("No crud database found on database server.");
         }
     }
     
